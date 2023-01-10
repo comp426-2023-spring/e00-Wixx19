@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=happy wolf scooter tamale 112233
+EXAMCODE=743544613
 
 echo ${EXAMCODE}
